@@ -25,11 +25,11 @@ Happy hacking,
 
 ## Day 11: ~# CORS (Cross-Origin Resource Sharing)
 
-    https://twitter.com/7h3h4ckv157/status/1662153470076665857
+- https://twitter.com/7h3h4ckv157/status/1662153470076665857
   
 ## Day 12: ~# Server Side Request Forgery (SSRF)
 
-    https://twitter.com/7h3h4ckv157/status/1662504293902204929
+- https://twitter.com/7h3h4ckv157/status/1662504293902204929
 
 ## Day 13: ~# Access control vulnerabilities
 
