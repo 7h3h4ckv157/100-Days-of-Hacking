@@ -12,7 +12,7 @@ Happy hacking,
 
 ## Day 1-10: ~# Hacking & Bug-Bounty Writeups 
 
-- Day 3:  https://twitter.com/7h3h4ckv157/status/1658327548865155073
+- Day 1:  https://twitter.com/7h3h4ckv157/status/1658327548865155073
 - Day 2:  https://twitter.com/7h3h4ckv157/status/1658887862392360960
 - Day 3:  https://twitter.com/7h3h4ckv157/status/1659256754612637697
 - Day 4:  https://twitter.com/7h3h4ckv157/status/1659617271860568064
@@ -75,7 +75,7 @@ Happy hacking,
 
    https://twitter.com/7h3h4ckv157/status/1666422979859996672
 
-## Day 24: ~# GMail Hacking!
+## Day 24: ~# G-Mail Hacking!
 
    https://twitter.com/7h3h4ckv157/status/1666878092491763717
 
@@ -95,7 +95,75 @@ Happy hacking,
 
    https://twitter.com/7h3h4ckv157/status/1668316281471385605
 
+## Day 29: ~# A dive into IoT Hacking
 
+   https://twitter.com/7h3h4ckv157/status/1668658147119210503
+
+## Day 30: ~# Browser Exploitation 🔥 
+
+   https://twitter.com/7h3h4ckv157/status/1669046797199900673
+
+## Day 31: ~# WebHacking (BugBounty) Cheatsheet & Red-Team Resources 
+
+   https://twitter.com/7h3h4ckv157/status/1669393182856200192
+   
+   https://twitter.com/7h3h4ckv157/status/1669756590583611394
+
+## Day 32: ~# Android Hacking 
+
+   https://twitter.com/7h3h4ckv157/status/1670104669266534400
+
+## Day 33: ~# iOS Hacking 
+
+   https://twitter.com/7h3h4ckv157/status/1670474636935729153
+
+## Day 34: ~# Satellite Hacking 🚀💻🔥 
+
+   https://twitter.com/7h3h4ckv157/status/1670851905969602561
+
+## Day 35: ~# Web3 Hacking 🔥 
+
+   https://twitter.com/7h3h4ckv157/status/1671192773121445888
+
+## Day 36: ~# Cloud Hacking 🔥 
+
+   https://twitter.com/7h3h4ckv157/status/1671549362110087168
+
+## Day 37: ~# Malware Analysis 🔥 
+
+   https://twitter.com/7h3h4ckv157/status/1671891442439180292  
+
+## Day 38: ~# Active Directory Hacking
+
+   https://twitter.com/7h3h4ckv157/status/1672262640712966144
+
+## Day 39: ~# Threat Intelligence 🔥  
+
+   https://twitter.com/7h3h4ckv157/status/1672498502059069440
+
+## Day 40: ~# Exploit Development 🔥
+
+   https://twitter.com/7h3h4ckv157/status/1672991167699636224
+
+## Day 41: ~# Hacking-Labs 
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 
 
 
