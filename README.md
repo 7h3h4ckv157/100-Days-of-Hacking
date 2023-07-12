@@ -5,7 +5,7 @@ I have compiled a comprehensive archive of my Twitter posts, providing a detaile
 
 Each tweet link serves as a snapshot of my thoughts, insights, and the resources I found valuable during my journey. Join me on this exhilarating journey through my "100 Days of Hacking" and let's explore the fascinating realm of cybersecurity together!
 
-Happy hacking,
+Happy Hacking!! 
 
 <img src="https://github.com/7h3h4ckv157/100-Days-of-Hacking/blob/main/Hack.jpg">
 
