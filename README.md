@@ -7,7 +7,9 @@ Each tweet link serves as a snapshot of my thoughts, insights, and the resources
 
 Happy Hacking!! 
 
+
 <img src="https://github.com/7h3h4ckv157/100-Days-of-Hacking/blob/main/Hack.jpg">
+
 
 
 ## Day 1-10: ~# Hacking & Bug-Bounty Writeups 
