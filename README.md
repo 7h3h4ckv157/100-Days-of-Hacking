@@ -208,6 +208,10 @@ Happy Hacking!!
 ## Day 56: ~# Top YouTube Channels to Learn Hacking!    
 
 - https://twitter.com/7h3h4ckv157/status/1678825354730012678
+
+## Day 57: ~# Preparation for CompTIA PenTest+ Certification  
+
+- https://twitter.com/7h3h4ckv157/status/1679169556638760960
  
 
 
