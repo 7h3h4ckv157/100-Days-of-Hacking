@@ -214,7 +214,10 @@ Happy Hacking!!
 ## Day 57: ~# Preparation for CompTIA PenTest+ Certification  
 
 - https://twitter.com/7h3h4ckv157/status/1679169556638760960
- 
+
+## Day 58: ~# Hacking AI 🔥
+
+- https://twitter.com/7h3h4ckv157/status/1679548700832731136
 
 
 
