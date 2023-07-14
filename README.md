@@ -219,6 +219,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1679548700832731136
 
+## Day 59: ~# ATM Pentesting Collections 🔥
+
+- https://twitter.com/7h3h4ckv157/status/1679898673327779841 
+
 
 
 
