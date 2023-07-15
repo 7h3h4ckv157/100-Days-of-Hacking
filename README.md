@@ -223,6 +223,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1679898673327779841 
 
+## Day 60: ~# Hacking CI/CD 🔥 
+
+- https://twitter.com/7h3h4ckv157/status/1680274755474317312
 
 
 
