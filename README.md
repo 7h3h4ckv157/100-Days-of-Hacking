@@ -227,6 +227,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1680274755474317312
 
+## Day 61: ~# Checklist for Red-Teaming 🔥 
+
+- https://twitter.com/7h3h4ckv157/status/1680642509154979841?s=20
+
 
 
 
