@@ -235,10 +235,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1681004385483259904
 
+## Day 63: ~# Some respectful Hacking Certifications 
 
-
-
-
+- https://twitter.com/7h3h4ckv157/status/1681370353296363520
 
 
 
