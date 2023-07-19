@@ -239,6 +239,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1681370353296363520
 
+## Day 64: ~# Hacking-Tools 🔥📢
+
+- https://twitter.com/7h3h4ckv157/status/1681712528223776768
+
 
 
 
