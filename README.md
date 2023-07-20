@@ -243,7 +243,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1681712528223776768
 
+##  Day 65: ~#  Best BugBounty Writeups (@Meta & @GoogleVRP)
 
+- https://twitter.com/7h3h4ckv157/status/1682092456987459584
 
 
     
