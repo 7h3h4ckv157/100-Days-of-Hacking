@@ -250,6 +250,10 @@ Happy Hacking!!
 ## Day 66: ~# Social Engineering 💯
 
 - https://twitter.com/7h3h4ckv157/status/1682451096411975680
+
+##  Day 67: ~#recon 
+
+- https://twitter.com/7h3h4ckv157/status/1682817216386048000
     
 
 
