@@ -257,6 +257,8 @@ Happy Hacking!!
 
 ## Day 68: ~# Wifi Attacks
 
+- https://twitter.com/7h3h4ckv157/status/1683172354858549248
+
 
     
 
