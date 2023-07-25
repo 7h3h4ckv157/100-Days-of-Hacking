@@ -262,6 +262,10 @@ Happy Hacking!!
 ## Day 69: ~# Docker Hacking 🔥📢
 
 - https://twitter.com/7h3h4ckv157/status/1683525691814596610
+
+## Day 70: ~# Bank Hacking 
+
+- https://twitter.com/7h3h4ckv157/status/1683901864499376128
     
 
 
