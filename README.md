@@ -267,7 +267,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1683901864499376128
     
+## Day 71: ~# Top Bug Bounty Platform to earn 💰
 
+- https://twitter.com/7h3h4ckv157/status/1684267059092533248
 
 
 
