@@ -271,7 +271,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1684267059092533248
 
+## Day 72: ~# Hardware Hacking! 
 
+- https://twitter.com/7h3h4ckv157/status/1684630230273777669
 
 
 
