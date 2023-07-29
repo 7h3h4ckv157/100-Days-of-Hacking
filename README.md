@@ -275,7 +275,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1684630230273777669
 
+## Day 73: ~# Google Dorking for Hacking! 🔥🔥
 
+- https://twitter.com/7h3h4ckv157/status/1684964541002813440
 
 
 
