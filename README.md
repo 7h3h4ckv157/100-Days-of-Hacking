@@ -279,6 +279,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1684964541002813440
 
+## Day 74: ~# Web application firewall (WAF) bypass 💯
+
+- https://twitter.com/7h3h4ckv157/status/1685348183990501376
+
 
 
 
