@@ -291,7 +291,7 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1686070460168261633
 
-## Day 77: ~# Security Operation Center Tools
+## Day 77: ~# Security Operation Center (SOC) Tools
 
 - https://twitter.com/7h3h4ckv157/status/1686438785826037761
 
