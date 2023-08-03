@@ -299,6 +299,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1686801039406850048
 
+## Day 79: ~# Capture The Flag (CTF) - Improve Hacking skills 💯 
+
+- https://twitter.com/7h3h4ckv157/status/1687164605880274944
+
 
 
 
