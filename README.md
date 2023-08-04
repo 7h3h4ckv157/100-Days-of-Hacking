@@ -303,6 +303,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1687164605880274944
 
+## Day 80: ~# FREE Cybersecurity AI projects 
+
+- https://twitter.com/7h3h4ckv157/status/1687527890978811904
 
 
 
