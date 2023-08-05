@@ -307,6 +307,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1687527890978811904
 
+## Day 81: ~# What CISO Should Know  in 2023 📢
+
+- https://twitter.com/7h3h4ckv157/status/1687892825629970432
+
 
 
 
