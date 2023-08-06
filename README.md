@@ -311,6 +311,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1687892825629970432
 
+## Day 82: ~# Hacking Open Source Software (OSS)
+
+- https://twitter.com/7h3h4ckv157/status/1688252577664884736
+
 
 
 
