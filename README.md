@@ -315,8 +315,13 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1688252577664884736
 
+## Day 83: ~# How to get your 1st CVE 📍❤️‍🔥
 
+- https://twitter.com/7h3h4ckv157/status/1688614700504985600
+  
+## Day 84: ~# All about Blue-Teaming  in Cyber-Security 🛡️
 
+- https://twitter.com/7h3h4ckv157/status/1688978093984432128
 
    
 
