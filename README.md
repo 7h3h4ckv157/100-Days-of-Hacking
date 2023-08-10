@@ -323,11 +323,13 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1688978093984432128
 
-## Day 85: The Dark Web 🕸️💀
+## Day 85: ~# The Dark Web 🕸️💀
 
 - https://twitter.com/7h3h4ckv157/status/1689333498467717120
 
-   
+## Day 86: ~#  Windows Exploitation 🥷🖥️ 
+
+- https://twitter.com/7h3h4ckv157/status/1689703167842553856 
 
 
 
