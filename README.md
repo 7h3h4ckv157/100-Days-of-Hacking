@@ -335,6 +335,10 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1690066895117123588
 
+## Day 88: ~# OSCP Exam Preparation - Roadmap/Guide
+
+- https://twitter.com/7h3h4ckv157/status/1690428507531497472
+
 
 
 
