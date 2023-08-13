@@ -339,9 +339,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1690428507531497472
 
+## Day 89: ~# Hacker Conferences In 2023 - 2024 ❤️‍🔥
 
-
-
+- https://twitter.com/7h3h4ckv157/status/1690785797937709056
 
 
 
