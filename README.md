@@ -343,7 +343,13 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1690785797937709056
 
+## Day 90: ~# Web Cache Poisoning 
 
+- https://twitter.com/7h3h4ckv157/status/1691150637269131264
+
+## Day 91: ~# Master your XSS Skills - XSS Labs 🥷⚔️
+
+- https://twitter.com/7h3h4ckv157/status/1691512647030890496
 
 
 
