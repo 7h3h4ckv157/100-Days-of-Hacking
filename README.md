@@ -351,6 +351,18 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1691512647030890496
 
+## Day 92: ~# Firewall Testing Checklist 📢
+
+- https://twitter.com/7h3h4ckv157/status/1691870111584673911 
+
+## Day 93: ~# Best Word-Lists for Hackers  ❤️‍🔥
+
+- https://twitter.com/7h3h4ckv157/status/1692241901238509839
+
+## Day 94: ~# Free Hacking/Cybersec Courses 📢
+
+- https://twitter.com/7h3h4ckv157/status/1692580411678089491
+
 
 
   
