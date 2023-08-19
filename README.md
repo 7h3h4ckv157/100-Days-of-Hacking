@@ -363,7 +363,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1692580411678089491
 
+## Day 95: ~# Antimalware Scan Interface (AMSI) Bypass 📢 
 
+- https://twitter.com/7h3h4ckv157/status/1692963722367742132
 
   
 
