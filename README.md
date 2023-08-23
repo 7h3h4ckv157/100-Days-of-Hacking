@@ -379,7 +379,9 @@ Happy Hacking!!
 
 - https://twitter.com/7h3h4ckv157/status/1694055088191586450
 
-## Day 99: ~# 
+## Day 99: ~# 2 Factor Authentication (2FA) Bypass Techniques 📍
+
+- https://twitter.com/7h3h4ckv157/status/1694399232390709414
 
 
   
