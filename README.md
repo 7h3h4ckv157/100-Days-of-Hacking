@@ -374,6 +374,14 @@ Happy Hacking!!
 ## Day 97: ~# OSEP Exam Guide ❤️‍🔥📢
 
 - https://twitter.com/7h3h4ckv157/status/1693690020929077472
+
+## Day 98: ~# Tips for noobs 💯
+
+- https://twitter.com/7h3h4ckv157/status/1694055088191586450
+
+## Day 99: ~# 
+
+
   
 
 
